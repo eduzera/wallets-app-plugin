@@ -32,9 +32,6 @@
     "@typescript-eslint/no-explicit-any": "error",
 
     // Code style
-    "import/no-default-export": [
-      "error"
-    ],
     "unicorn/filename-case": [
       "error",
       {
